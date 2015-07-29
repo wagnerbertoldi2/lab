@@ -1,8 +1,11 @@
 <html>
 <head>
 	<title>Apenas um teste</title>
+	<style type="text/css">
+		.t{ font-family:verdana; color:#ff0000; font-size:100px; }
+	</style>
 </head>
 <body>
-	<div class="t">Olaaaaaaaaaaaaaaa!</div>
+	<marquee><div class="t">Ola!</div></marquee>
 </body>
 </html>
